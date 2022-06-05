@@ -1,0 +1,19 @@
+2022-06-05 22:20:24,225  INFO [main] NoBroker:41 - Browser opened successfully
+2022-06-05 22:20:29,075  INFO [main] NoBroker:44 - url hited
+2022-06-05 22:20:46,795  INFO [main] NoBroker:68 - Locality has been set to White Field
+2022-06-05 22:20:46,932  INFO [main] NoBroker:70 - Buying Properties in White Field Banglore are visible
+2022-06-05 22:21:08,877  INFO [main] NoBroker:89 - Locality has been set to WhiteField
+2022-06-05 22:21:09,031  INFO [main] NoBroker:92 - Buying Properties in MG Road Banglore are visible
+2022-06-05 22:21:32,673  INFO [main] NoBroker:137 - Painting and cleaning page is showing
+2022-06-05 22:21:54,325  INFO [main] NoBroker:165 - Navigated to Careers Page
+2022-06-05 22:21:57,464  INFO [main] NoBroker:169 - Verified title of Careers Page
+2022-06-05 22:22:07,257  INFO [main] NoBroker:181 - Navigated to Seller Plan Page
+2022-06-05 22:22:10,299  INFO [main] NoBroker:185 - Verified title of plan at Seller Plan Page
+2022-06-05 22:22:13,358  INFO [main] NoBroker:190 - Verified amount of plan at Seller Plan Page
+2022-06-05 22:22:24,505  INFO [main] NoBroker:204 - Navigated to Owner Plan Page
+2022-06-05 22:22:27,551  INFO [main] NoBroker:208 - Verified title of plan at Owner Plan Page
+2022-06-05 22:22:30,605  INFO [main] NoBroker:213 - Verified amount of plan at Owner Plan Page
+2022-06-05 22:22:43,325  INFO [main] NoBroker:226 - Navigated to Corportae Inquiry Page
+2022-06-05 22:22:46,399  INFO [main] NoBroker:229 - Clicked on the home services option
+2022-06-05 22:22:53,552  INFO [main] NoBroker:239 - Clicked on the Packers and movers option
+2022-06-05 22:22:56,597  INFO [main] NoBroker:243 - Verified title at Packers and Movers Page
